@@ -1,10 +1,9 @@
-## React App tutorial  
+# React App Tutorial  
 <br>  
 
-## JavaScript Mastery [_youtube course_]
+## JavaScript Mastery [ _Course on youtube_ ]
 
 [Build and Deploy a Fully Responsive Modern UI/UX Website in React JS](https://www.youtube.com/watch?v=LMagNcngvcU)  
-
 
 > Source:https://github.com/adrianhajdin/project_modern_ui_ux_gpt3
 > Assets:https://drive.google.com/drive/folders/1NGEJGW4mzQwZGXClQWginq-0Oc3LO9r9
